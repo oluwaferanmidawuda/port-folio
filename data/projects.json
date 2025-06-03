@@ -1,0 +1,10 @@
+[
+    {
+        "name": "E-Commerce Website",
+        "description": "A fully responsive e-commerce platform with product filtering, cart functionality, and checkout process.",
+    },
+    {
+        "name": "Task Management App",
+        "description": "A productivity application for managing tasks with drag-and-drop functionality and due date reminders.",
+    },
+]
