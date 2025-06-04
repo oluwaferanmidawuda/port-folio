@@ -1,6 +1,6 @@
 # Welcome to My Portfolio! 👋
 
-Hi, I'm **Oluwaferanmi Dawuda** (0LA-X). This is my portfolio repository showcasing my projects, skills, and contributions.
+Hi, I'm **Oluwaferanmi Dawuda**. This is my portfolio repository showcasing my projects, skills, and contributions.
 
 ## 🚀 About Me
 - 🔭 I’m currently working on **exciting projects**.
@@ -22,5 +22,6 @@ Here are some featured projects:
 
 ## 🌟 How to Use This Portfolio
 1. Clone the repo:
-   ```bash
+   ```
    git clone https://github.com/oluwaferanmidawuda/port-folio.git
+   ```
